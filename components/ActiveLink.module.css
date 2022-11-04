@@ -1,0 +1,11 @@
+.noLinkActivo {
+    background-color: azure;
+    border: 2px solid orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+}
+
+.linkActivo {
+    color: greenyellow;
+}
